@@ -1,6 +1,6 @@
 ### Oiie! Eu sou a Mariana Morosini
 
-- 🔭 Hoje trabalho com Suporte Técnico
+- 🔭 Atualmente trabalho com Suporte Técnico
 
  <div>
   <a href="https://github.com/MarianaMorosini">
