@@ -1,6 +1,7 @@
 ### Oiie! Eu sou a Mariana Morosini
 
 - 🔭 Atualmente trabalho com Suporte Técnico
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas na [Fatec/Sorocaba](http://www.fatecsorocaba.edu.br/)
 
  <div>
   <a href="https://github.com/MarianaMorosini">
