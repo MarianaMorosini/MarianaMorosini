@@ -1,6 +1,6 @@
 ### Oiie! Eu sou a Mariana Morosini
 
-- 🔭 Atualmente trabalho com Suporte Técnico
+- 🔭 Atualmente trabalho como Desenvolvedora PHP
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na [Fatec/Sorocaba](http://www.fatecsorocaba.edu.br/)
 - 📚 Estudando PHP
 
