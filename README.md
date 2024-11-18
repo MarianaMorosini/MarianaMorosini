@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Desenvolvedora PHP
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas pela [Fatec/Sorocaba](http://www.fatecsorocaba.edu.br/)
-- 📚 Estudando PHP
+- 📚 Estudando PHP e C#
 
  <div>
   <a href="https://github.com/MarianaMorosini">
